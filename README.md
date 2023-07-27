@@ -1,4 +1,5 @@
-PCOS-Detection-and-Diet-Recommender:
+PCOS-Detection-and-Diet-Recommender
+-----------------------------------
 
 TEAM MEMBERS: Shria Sannuthi (20BIT0121)
               Seshadri Sriya (20BIT0172)
