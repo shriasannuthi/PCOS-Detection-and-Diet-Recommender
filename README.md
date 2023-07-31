@@ -1,4 +1,4 @@
-PCOS-Detection-and-Diet-Recommender System
+PCOS-Detection-and-Diet-Recommender
 -----------------------------------
 
 TEAM MEMBERS: Shria Sannuthi (20BIT0121)
